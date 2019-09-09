@@ -7,6 +7,11 @@ h3 {
 body {
   color: #ffffff;
   }
-table {
+td {
+  color: #ffffff;
+}
+td {
+   border-style: solid;
+  border-width: 5px;
   border-color: #1a0600;
   }
